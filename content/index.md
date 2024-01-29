@@ -9,7 +9,7 @@ LVL6
 
 ## Applicative software development
 
-![](/uploads/77c4741204cc98beb4fba0500.png)
+![](https://md.dreemcloud.net/uploads/77c4741204cc98beb4fba0500.png)
 
 ### 🟢 Object Oriented Programing (10000 xp required + min 2 project)
 
@@ -43,32 +43,32 @@ LVL6
 
 ### 🔴 Programmation impérative (10000 xp required + min 2 project)
 
-| Project                                                                             | XP (10000 XP) | Person | Also In | TLDR                     |
-| ----------------------------------------------------------------------------------- | ------------- | ------ | ------- | ------------------------ |
-| [Libasm](https://projects.intra.42.fr/projects/libasm)                              | 966           | Solo   |         |                          |
-| [Zappy](https://projects.intra.42.fr/projects/42cursus-zappy)                       | 25200         | 2-4    |         |                          |
-| [Gbmu](https://projects.intra.42.fr/projects/42cursus-gbmu)                         | 31500         | 2-4    |         |                          |
-| [Ft_Linux](https://projects.intra.42.fr/projects/42cursus-ft_linux)                 | 4200          | Solo   |         |                          |
-| [Little Penguin 1](https://projects.intra.42.fr/projects/42cursus-little-penguin-1) | 9450          | Solo   |         |                          |
-| [Taskmaster](https://projects.intra.42.fr/projects/42cursus-taskmaster)             | 9450          | 2      |         |                          |
-| [Strace](https://projects.intra.42.fr/projects/42cursus-strace)                     | 9450          | Solo   |         |                          |
-| [Malloc](https://projects.intra.42.fr/projects/42cursus-malloc)                     | 9450          | Solo   |         | Malloc (C)               |
-| [Matt Daemon](https://projects.intra.42.fr/projects/42cursus-matt-daemon)           | 9450          | 2      |         | Proccess en arriere plan |
-| [Nm](https://projects.intra.42.fr/projects/nm)                                      | 9450          | Solo   |         | Lire des binaires        |
-| [Lem Ipc](https://projects.intra.42.fr/projects/42cursus-lem-ipc)                   | 9450          | Solo   |         | Online Board Game        |
-| [Kfs 1](https://projects.intra.42.fr/projects/42cursus-kfs-1)                       | 15750         | 2      |         | Kernel Part 1            |
-| [Kfs 2](https://projects.intra.42.fr/projects/42cursus-kfs-2)                       | 15750         | 2      | 🔵      | Kernel Part 2            |
-| [Ft_Malcolm](https://projects.intra.42.fr/projects/ft_malcolm)                      | 6000          | Solo   |         | Man in the middle        |
-| [Ft_Ssl_Md5](https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5)             | 9450          | Solo   |         | OpenSSL                  |
-| [Darkly](https://projects.intra.42.fr/projects/42cursus-darkly)                     | 6300          | 2      | 🟢      | Paintest web (ctf)       |
-| [Snow Crash](https://projects.intra.42.fr/projects/42cursus-snow-crash)             | 9450          | 2      |         | Virus ?                  |
-| [Rainfall](https://projects.intra.42.fr/projects/42cursus-rainfall)                 | 25200         | 2      |         | Virus ?                  |
-| [Override](https://projects.intra.42.fr/projects/42cursus-override)                 | 35700         | 2      | 🔵      | Hack Binary              |
-| [Boot2Root](https://projects.intra.42.fr/projects/42cursus-boot2root)               | 11500         | 2-4    |         | Privilege Escalation     |
-| [Ft_Shield](https://projects.intra.42.fr/projects/42cursus-ft_shield)               | 15750         | 2      |         | Trojan                   |
-| [Woody Woodpacker](https://projects.intra.42.fr/projects/42cursus-woody-woodpacker) | 9450          | 2      |         | Obfuscate Virus          | 
-| [Famine](https://projects.intra.42.fr/projects/42cursus-famine)                     | 9450          | 2      |         | Virus ?                  |
-| [Pestilence](https://projects.intra.42.fr/projects/42cursus-pestilence)             | 15750         | 2      | 🔵      | Virus Obfuscation        |
+| Project                                                                             | XP (10000 XP) | Person | Also In | TLDR                             |
+| ----------------------------------------------------------------------------------- | ------------- | ------ | ------- | -------------------------------- |
+| [Libasm](https://projects.intra.42.fr/projects/libasm)                              | 966           | Solo   |         | Introduction to assembly         |
+| [Zappy](https://projects.intra.42.fr/projects/42cursus-zappy)                       | 25200         | 2-4    |         | Online Board Game                |
+| [Gbmu](https://projects.intra.42.fr/projects/42cursus-gbmu)                         | 31500         | 2-4    |         | GameBoy emulator                 | 
+| [Ft_Linux](https://projects.intra.42.fr/projects/42cursus-ft_linux)                 | 4200          | Solo   |         | Build your own kernel (Not Code) |
+| [Little Penguin 1](https://projects.intra.42.fr/projects/42cursus-little-penguin-1) | 9450          | Solo   |         | Learn features of linux          |
+| [Taskmaster](https://projects.intra.42.fr/projects/42cursus-taskmaster)             | 9450          | 2      |         | Process management               |
+| [Strace](https://projects.intra.42.fr/projects/42cursus-strace)                     | 9450          | Solo   |         | strace and ptrace command        |
+| [Malloc](https://projects.intra.42.fr/projects/42cursus-malloc)                     | 9450          | Solo   |         | Malloc (C)                       |
+| [Matt Daemon](https://projects.intra.42.fr/projects/42cursus-matt-daemon)           | 9450          | 2      |         | Proccess en arriere plan         |
+| [Nm](https://projects.intra.42.fr/projects/nm)                                      | 9450          | Solo   |         | Lire des binaires                |
+| [Lem Ipc](https://projects.intra.42.fr/projects/42cursus-lem-ipc)                   | 9450          | Solo   |         | Online Board Game                |
+| [Kfs 1](https://projects.intra.42.fr/projects/42cursus-kfs-1)                       | 15750         | 2      |         | Kernel Part 1                    |
+| [Kfs 2](https://projects.intra.42.fr/projects/42cursus-kfs-2)                       | 15750         | 2      | 🔵      | Kernel Part 2                    |
+| [Ft_Malcolm](https://projects.intra.42.fr/projects/ft_malcolm)                      | 6000          | Solo   |         | Man in the middle                |
+| [Ft_Ssl_Md5](https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5)             | 9450          | Solo   |         | OpenSSL                          |
+| [Darkly](https://projects.intra.42.fr/projects/42cursus-darkly)                     | 6300          | 2      | 🟢      | Paintest web (ctf)               |
+| [Snow Crash](https://projects.intra.42.fr/projects/42cursus-snow-crash)             | 9450          | 2      |         | Virus ?                          |
+| [Rainfall](https://projects.intra.42.fr/projects/42cursus-rainfall)                 | 25200         | 2      |         | Virus ?                          |
+| [Override](https://projects.intra.42.fr/projects/42cursus-override)                 | 35700         | 2      | 🔵      | Hack Binary                      |
+| [Boot2Root](https://projects.intra.42.fr/projects/42cursus-boot2root)               | 11500         | 2-4    |         | Privilege Escalation             |
+| [Ft_Shield](https://projects.intra.42.fr/projects/42cursus-ft_shield)               | 15750         | 2      |         | Trojan                           |
+| [Woody Woodpacker](https://projects.intra.42.fr/projects/42cursus-woody-woodpacker) | 9450          | 2      |         | Obfuscate Virus                  |
+| [Famine](https://projects.intra.42.fr/projects/42cursus-famine)                     | 9450          | 2      |         | Virus ?                          |
+| [Pestilence](https://projects.intra.42.fr/projects/42cursus-pestilence)             | 15750         | 2      | 🔵      | Virus Obfuscation                |
 
 
 ### 🔵 Suite (min 1 project)
