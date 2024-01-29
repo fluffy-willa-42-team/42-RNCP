@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aa47a189163063e0",
@@ -128,12 +128,21 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "a42182b410479159",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,8 +158,17 @@
   },
   "active": "47d9209ae0cc3a91",
   "lastOpenFiles": [
+    "Bomberman.md",
+    "index.md",
+    "Untitled.canvas",
     "asset/level6-Applicative-software-development.png",
-    "asset",
-    "index.md"
+    "asset/fluffy.png",
+    "asset/test.png",
+    "asset/willa.png",
+    "asset/render2.32x32.png",
+    "asset/render2.16x16.png",
+    "asset/c9ed97e35b0584b0825fb41454c6bd39.png?size=32",
+    "asset/524b68e494ffea97e41d72ae8c513e7a.png?size=32",
+    "asset"
   ]
 }
