@@ -9,7 +9,7 @@ LVL6
 
 ## Applicative software development
 
-![](https://md.dreemcloud.net/uploads/77c4741204cc98beb4fba0500.png)
+![[level6-Applicative-software-development.png]]
 
 ### 🟢 Object Oriented Programing
 | Project (Minimum 2)                                                                           | XP (10000 XP) | Person | Also In | TLDR                                                       |
