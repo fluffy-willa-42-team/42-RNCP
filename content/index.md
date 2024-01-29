@@ -11,9 +11,8 @@ LVL6
 
 ![](https://md.dreemcloud.net/uploads/77c4741204cc98beb4fba0500.png)
 
-### 🟢 Object Oriented Programing (10000 xp required + min 2 project)
-
-| Project                                                                                       | XP (10000 XP) | Person | Also In | TLDR                                                       |
+### 🟢 Object Oriented Programing
+| Project (Minimum 2)                                                                           | XP (10000 XP) | Person | Also In | TLDR                                                       |
 | --------------------------------------------------------------------------------------------- | ------------- | ------ | ------- | ---------------------------------------------------------- |
 | [Bomberman](https://projects.intra.42.fr/projects/42cursus-bomberman)                         | 25200         | 4-5    |         | Bomberman c++ opengl                                       |
 | [Nibbler](https://projects.intra.42.fr/projects/42cursus-nibbler)                             | 9450          | 2      |         | Snake (c++ opengl)                                         |
@@ -32,22 +31,20 @@ LVL6
 | [Piscine Django](https://projects.intra.42.fr/projects/piscine-django)                        | ---           | ---    |         | ---                                                        |
 | [Piscine Ruby On Rails](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) | 9450          | ---    |         | ---                                                        |
 | [Piscine Php Symfony](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)     | 9450          | ---    |         | ---                                                        |
-
-
-### 🟡 Functional programming (10000 xp required + min 2 project)
-| Project                                                               | XP (10000 XP) | Person | Also In | TLDR                                                                               |
+|                                                                                               |               |        |         |                                                            |
+### 🟡 Functional programming
+| Project (Minimum 2)                                                   | XP (10000 XP) | Person | Also In | TLDR                                                                               |
 | --------------------------------------------------------------------- | ------------- | ------ | ------- | ---------------------------------------------------------------------------------- |
 | [Ft_Turing](https://projects.intra.42.fr/projects/42cursus-ft_turing) | 9450          | 2      |         | Turing machine (OCaml)                                                             |
 | [Ft_Ality](https://projects.intra.42.fr/projects/42cursus-ft_ality)   | 4200          | 2      |         | KeyMap to mortal combat move (Language interpreter (Regex)) (functionnal language) |
 | [H42N42](https://projects.intra.42.fr/projects/42cursus-h42n42)       | 9450          | Solo   | 🟢      | Simulation de population (Covid 2 Electric boogaloo) OCaml                         |
 
-### 🔴 Programmation impérative (10000 xp required + min 2 project)
-
-| Project                                                                             | XP (10000 XP) | Person | Also In | TLDR                             |
+### 🔴 Imperative programming
+| Project (Minimum 2)                                                                 | XP (10000 XP) | Person | Also In | TLDR                             |
 | ----------------------------------------------------------------------------------- | ------------- | ------ | ------- | -------------------------------- |
 | [Libasm](https://projects.intra.42.fr/projects/libasm)                              | 966           | Solo   |         | Introduction to assembly         |
 | [Zappy](https://projects.intra.42.fr/projects/42cursus-zappy)                       | 25200         | 2-4    |         | Online Board Game                |
-| [Gbmu](https://projects.intra.42.fr/projects/42cursus-gbmu)                         | 31500         | 2-4    |         | GameBoy emulator                 | 
+| [Gbmu](https://projects.intra.42.fr/projects/42cursus-gbmu)                         | 31500         | 2-4    |         | GameBoy emulator                 |
 | [Ft_Linux](https://projects.intra.42.fr/projects/42cursus-ft_linux)                 | 4200          | Solo   |         | Build your own kernel (Not Code) |
 | [Little Penguin 1](https://projects.intra.42.fr/projects/42cursus-little-penguin-1) | 9450          | Solo   |         | Learn features of linux          |
 | [Taskmaster](https://projects.intra.42.fr/projects/42cursus-taskmaster)             | 9450          | 2      |         | Process management               |
@@ -73,7 +70,7 @@ LVL6
 
 ### 🔵 Suite (min 1 project)
 
-| Project                                                                                      | XP    | Person | Also In | TLDR                |
+| Project (Minimum 2)                                                                          | XP    | Person | Also In | TLDR                |
 | -------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------------------- |
 | [42Sh](https://projects.intra.42.fr/projects/42cursus-42sh)                                  | 15750 | 4-5    |         | BASH (C)            |
 | [Badass](https://projects.intra.42.fr/projects/bgp-at-doors-of-autonomous-systems-is-simple) | 22450 | 2-3    |         | VM Networking       |
@@ -81,7 +78,7 @@ LVL6
 | [Inception Of Things](https://projects.intra.42.fr/projects/inception-of-things)             | 25450 | 2-2    |         | Kubernetes CI/CD    |
 | [Humangl](https://projects.intra.42.fr/projects/42cursus-humangl)                            | 4200  | 2      |         | Animation 3D OpenGL |
 | [Kfs 2](https://projects.intra.42.fr/projects/42cursus-kfs-2)                                | 15750 | 2      | 🔴      | Kernel Part 2       |
-| [Override](https://projects.intra.42.fr/projects/42cursus-override)                          | 35700 | 2      | 🔴      | Hack Binary         | 
+| [Override](https://projects.intra.42.fr/projects/42cursus-override)                          | 35700 | 2      | 🔴      | Hack Binary         |
 | [Pestilence](https://projects.intra.42.fr/projects/42cursus-pestilence)                      | 15750 | 2      | 🔴      | Virus Obfuscation   |
 | [Rt](https://projects.intra.42.fr/projects/42cursus-rt)                                      | 20750 | 2-3    |         | RayTracing 3D       |
 
