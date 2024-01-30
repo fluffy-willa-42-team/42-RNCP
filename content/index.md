@@ -42,32 +42,32 @@ LVL6
 | [[H42N42]]          | 9450          | Solo   | 🟢      | ![[willa.png]] ![[fluffy.png]] |
 
 ### 🔴 Imperative programming
-| Project (Minimum 2)     | XP (10000 XP) | Person | Also In |                                |
-| ----------------------- | ------------- | ------ | ------- | ------------------------------ |
-| [[Libasm]] ()           | 966           | Solo   |         | ![[willa.png]] ![[fluffy.png]] |
-| [[Zappy]] ()            | 25200         | 2-4    |         |                                |
-| [[Gbmu]] ()             | 31500         | 2-4    |         |                                |
-| [[Ft_Linux]] ()         | 4200          | Solo   |         |                                |
-| [[Little Penguin 1]] () | 9450          | Solo   |         |                                |
-| [[Taskmaster]] ()       | 9450          | 2      |         |                                |
-| [[Strace]] ()           | 9450          | Solo   |         |                                |
-| [[Malloc]] ()           | 9450          | Solo   |         |                                |
-| [[Matt Daemon]] ()      | 9450          | 2      |         |                                |
-| [[Nm]] ()               | 9450          | Solo   |         |                                |
-| [[Lem Ipc]] ()          | 9450          | Solo   |         | ![[willa.png]] ![[fluffy.png]] |
-| [[Kfs 1]] ()            | 15750         | 2      |         |                                |
-| [[Kfs 2]] ()            | 15750         | 2      | 🔵      |                                |
-| [[Ft_Malcolm]] ()       | 6000          | Solo   |         |                                |
-| [[Ft_Ssl_Md5]] ()       | 9450          | Solo   |         |                                |
-| [[Darkly]] ()           | 6300          | 2      | 🟢      |                                |
-| [[Snow Crash]] ()       | 9450          | 2      |         |                                |
-| [[Rainfall]] ()         | 25200         | 2      |         |                                |
-| [[Override]] ()         | 35700         | 2      | 🔵      |                                |
-| [[Boot2Root]] ()        | 11500         | 2-4    |         |                                |
-| [[Ft_Shield]] ()        | 15750         | 2      |         |                                |
-| [[Woody Woodpacker]] () | 9450          | 2      |         |                                |
-| [[Famine]] ()           | 9450          | 2      |         |                                |
-| [[Pestilence]] ()       | 15750         | 2      | 🔵      |                                |
+| Project (Minimum 2)  | XP (10000 XP) | Person | Also In |                                |
+| -------------------- | ------------- | ------ | ------- | ------------------------------ |
+| [[Libasm]]           | 966           | Solo   |         | ![[willa.png]] ![[fluffy.png]] |
+| [[Zappy]]            | 25200         | 2-4    |         |                                |
+| [[Gbmu]]             | 31500         | 2-4    |         |                                |
+| [[Ft_Linux]]         | 4200          | Solo   |         |                                |
+| [[Little Penguin 1]] | 9450          | Solo   |         |                                |
+| [[Taskmaster]]       | 9450          | 2      |         |                                |
+| [[Strace]]           | 9450          | Solo   |         |                                |
+| [[Malloc]]           | 9450          | Solo   |         |                                |
+| [[Matt Daemon]]      | 9450          | 2      |         |                                |
+| [[Nm]]               | 9450          | Solo   |         |                                |
+| [[Lem Ipc]]          | 9450          | Solo   |         | ![[willa.png]] ![[fluffy.png]] |
+| [[Kfs 1]]            | 15750         | 2      |         |                                |
+| [[Kfs 2]]            | 15750         | 2      | 🔵      |                                |
+| [[Ft_Malcolm]]       | 6000          | Solo   |         |                                |
+| [[Ft_Ssl_Md5]]       | 9450          | Solo   |         |                                |
+| [[Darkly]]           | 6300          | 2      | 🟢      |                                |
+| [[Snow Crash]]       | 9450          | 2      |         |                                |
+| [[Rainfall]]         | 25200         | 2      |         |                                |
+| [[Override]]         | 35700         | 2      | 🔵      |                                |
+| [[Boot2Root]]        | 11500         | 2-4    |         |                                |
+| [[Ft_Shield]]        | 15750         | 2      |         |                                |
+| [[Woody Woodpacker]] | 9450          | 2      |         |                                |
+| [[Famine]]           | 9450          | 2      |         |                                |
+| [[Pestilence]]       | 15750         | 2      | 🔵      |                                |
 
 
 ### 🔵 Suite
