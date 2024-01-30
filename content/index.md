@@ -35,11 +35,11 @@ LVL6
 | [[Piscine Php Symfony]]   | 9450          | ---    |         |                                |            |
 
 ### 🟡 Functional programming
-| Project (Minimum 2)                                                   | XP (10000 XP) | Person | Also In | TLDR                                                                               |                                |
-| --------------------------------------------------------------------- | ------------- | ------ | ------- | ---------------------------------------------------------------------------------- | ------------------------------ |
-| [Ft_Turing](https://projects.intra.42.fr/projects/42cursus-ft_turing) | 9450          | 2      |         | Turing machine (OCaml)                                                             | ![[willa.png]] ![[fluffy.png]] | 
-| [Ft_Ality](https://projects.intra.42.fr/projects/42cursus-ft_ality)   | 4200          | 2      |         | KeyMap to mortal combat move (Language interpreter (Regex)) (functionnal language) |                                |
-| [H42N42](https://projects.intra.42.fr/projects/42cursus-h42n42)       | 9450          | Solo   | 🟢      | Simulation de population (Covid 2 Electric boogaloo) OCaml                         | ![[willa.png]] ![[fluffy.png]] |
+| Project (Minimum 2) | XP (10000 XP) | Person | Also In |                                |
+| ------------------- | ------------- | ------ | ------- | ------------------------------ |
+| [[Ft_Turing]]       | 9450          | 2      |         | ![[willa.png]] ![[fluffy.png]] |
+| [[Ft_Ality]]        | 4200          | 2      |         |                                |
+| [[H42N42]]          | 9450          | Solo   | 🟢      | ![[willa.png]] ![[fluffy.png]] |
 
 ### 🔴 Imperative programming
 | Project (Minimum 2)                                                                 | XP (10000 XP) | Person | Also In | TLDR                             |                                |
