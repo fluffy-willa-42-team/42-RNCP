@@ -1,12 +1,11 @@
 # RNCP
 
-[Intra rncp lvl6](https://meta.intra.42.fr/articles/rncp-6-certificate)
-
-[Intra rncp lvl7](https://meta.intra.42.fr/articles/rncp-7-certificate)
+[[RNCP 6]]
+[[RNCP 7]]
 
 [42 Evaluator rncp](https://42evaluators.com/rncp/)
 
-LVL6
+[[RNCP 6]]
 ----
 
 ## Applicative software development
@@ -85,7 +84,7 @@ LVL6
 | [Rt](https://projects.intra.42.fr/projects/42cursus-rt)                                      | 20750 | 2-3    |         | RayTracing 3D       |                                |
 
 ---
-LVL7
+[[RNCP 7]]
 ----
 
 
