@@ -14,26 +14,26 @@ LVL6
 ![[level6-Applicative-software-development.png]]
 
 ### 🟢 Object Oriented Programing
-| Project (Minimum 2)                                                                           | XP (10000 XP) | Person | Also In | TLDR                                                       | Mandatory                      | Interested                     | 
-| --------------------------------------------------------------------------------------------- | ------------- | ------ | ------- | ---------------------------------------------------------- | ------------------------------ | ------------------------------ |
-| [[Bomberman]]                         | 25200         | 4-5    |         | Bomberman c++ opengl                                       |                                |                                |
-| [Nibbler](https://projects.intra.42.fr/projects/42cursus-nibbler)                             | 9450          | 2      |         | Snake (c++ opengl)                                         | ![[willa.png]] ![[fluffy.png]] | ![[willa.png]] ![[fluffy.png]] |
-| [Camagru](https://projects.intra.42.fr/projects/42cursus-camagru)                             | 4200          | 2      |         | Instagram (php)                                            |                                |                                |
-| [Matcha](https://projects.intra.42.fr/projects/42cursus-matcha)                               | 9450          | 2-4    |         | Tinder (Any language)                                      |                                | ![[willa.png]] ![[fluffy.png]] |
-| [Hypertube](https://projects.intra.42.fr/projects/42cursus-hypertube)                         | 15750         | 2-4    |         | Torrent Youtube (Any language)                             |                                |                                |
-| [Red Tetris](https://projects.intra.42.fr/projects/42cursus-red-tetris)                       | 15750         | 2-4    |         | Transcendence Revenge Tetris                               |                                |                                |
-| [Darkly](https://projects.intra.42.fr/projects/42cursus-darkly)                               | 6300          | 2      | 🔴      | Paintest web (ctf)                                         |                                |                                |
-| [H42N42](https://projects.intra.42.fr/projects/42cursus-h42n42)                               | 9450          | Solo   | 🟡      | Simulation de population (Covid 2 Electric boogaloo) OCaml | ![[willa.png]] ![[fluffy.png]] |                                |
-| [Ft_Hangouts](https://projects.intra.42.fr/projects/42cursus-ft_hangouts)                     | 4200          | Solo   |         | Mobile app Messaging (any language for IOS or Android)     |                                |                                |
-| [Swifty Companion](https://projects.intra.42.fr/projects/42cursus-swifty-companion)           | 4200          | Solo   |         | mini intra42 (Mobile App)                                  |                                |                                |
-| [Swifty Proteins](https://projects.intra.42.fr/projects/42cursus-swifty-proteins)             | 15750         | 2      |         | 3d mobile app                                              |                                |                                |
-| [Avaj Launcher](https://projects.intra.42.fr/projects/42cursus-avaj-launcher)                 | 4200          | Solo   |         | Introduction java                                          |                                |                                |
-| [Swingy](https://projects.intra.42.fr/projects/42cursus-swingy)                               | 9450          | Solo   |         | Mini rpg java + gui                                        |                                |                                |
-| [Fix Me](https://projects.intra.42.fr/projects/42cursus-fix-me)                               | 15750         | Solo   |         | Api de trading                                             |                                |                                |
-| [Piscine Django](https://projects.intra.42.fr/projects/piscine-django)                        | ---           | ---    |         | ---                                                        |                                |                                |
-| [Piscine Ruby On Rails](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) | 9450          | ---    |         | ---                                                        |                                |                                |
-| [Piscine Php Symfony](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)     | 9450          | ---    |         | ---                                                        |                                |                                |
-|                                                                                               |               |        |         |                                                            |                                |                                |
+| Project (Minimum 2)       | XP (10000 XP) | Person | Also In | Mandatory                      | Interested |
+| ------------------------- | ------------- | ------ | ------- | ------------------------------ | ---------- |
+| [[Bomberman]]             | 25200         | 4-5    |         |                                |            |
+| [[Nibbler]]               | 9450          | 2      |         | ![[willa.png]] ![[fluffy.png]] |            | 
+| [[Camagru]]               | 4200          | 2      |         |                                |            |
+| [[Matcha]]                | 9450          | 2-4    |         |                                |            |
+| [[Hypertube]]             | 15750         | 2-4    |         |                                |            |
+| [[Red Tetris]]            | 15750         | 2-4    |         |                                |            |
+| [[Darkly]]                | 6300          | 2      | 🔴      |                                |            |
+| [[H42N42]]                | 9450          | Solo   | 🟡      | ![[willa.png]] ![[fluffy.png]] |            |
+| [[Ft_Hangouts]]           | 4200          | Solo   |         |                                |            |
+| [[Swifty Companion]]      | 4200          | Solo   |         |                                |            |
+| [[Swifty Proteins]]       | 15750         | 2      |         |                                |            |
+| [[Avaj Launcher]]         | 4200          | Solo   |         |                                |            |
+| [[Swingy]]                | 9450          | Solo   |         |                                |            |
+| [[Fix Me]]                | 15750         | Solo   |         |                                |            |
+| [[Piscine Django]]        | ---           | ---    |         |                                |            |
+| [[Piscine Ruby On Rails]] | 9450          | ---    |         |                                |            |
+| [[Piscine Php Symfony]]   | 9450          | ---    |         |                                |            |
+
 ### 🟡 Functional programming
 | Project (Minimum 2)                                                   | XP (10000 XP) | Person | Also In | TLDR                                                                               |                                |
 | --------------------------------------------------------------------- | ------------- | ------ | ------- | ---------------------------------------------------------------------------------- | ------------------------------ |
