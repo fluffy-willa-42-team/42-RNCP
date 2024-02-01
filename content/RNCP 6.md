@@ -63,14 +63,14 @@
 | [[Pestilence]]       | 15750         | 2      | 🔵      |                                |
 
 ### 🔵 Suite
-| Project (Minimum 2)                                                                          | XP    | Person | Also In | TLDR                |                                |
-| -------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------------------- | ------------------------------ |
-| [42Sh](https://projects.intra.42.fr/projects/42cursus-42sh)                                  | 15750 | 4-5    |         | BASH (C)            |                                |
-| [Badass](https://projects.intra.42.fr/projects/bgp-at-doors-of-autonomous-systems-is-simple) | 22450 | 2-3    |         | VM Networking       |                                |
-| [Doom Nukem](https://projects.intra.42.fr/projects/42cursus-doom-nukem)                      | 15750 | 3-4    |         | Doom Nukem (C)      |                                |
-| [Inception Of Things](https://projects.intra.42.fr/projects/inception-of-things)             | 25450 | 2-2    |         | Kubernetes CI/CD    | ![[willa.png]] ![[fluffy.png]] |
-| [Humangl](https://projects.intra.42.fr/projects/42cursus-humangl)                            | 4200  | 2      |         | Animation 3D OpenGL |                                |
-| [Kfs 2](https://projects.intra.42.fr/projects/42cursus-kfs-2)                                | 15750 | 2      | 🔴      | Kernel Part 2       |                                |
-| [Override](https://projects.intra.42.fr/projects/42cursus-override)                          | 35700 | 2      | 🔴      | Hack Binary         |                                |
-| [Pestilence](https://projects.intra.42.fr/projects/42cursus-pestilence)                      | 15750 | 2      | 🔴      | Virus Obfuscation   |                                |
-| [Rt](https://projects.intra.42.fr/projects/42cursus-rt)                                      | 20750 | 2-3    |         | RayTracing 3D       |                                |
+| Project (Minimum 2)   | XP    | Person | Also In | TLDR                |                                |
+| --------------------- | ----- | ------ | ------- | ------------------- | ------------------------------ |
+| [[42Sh]]                | 15750 | 4-5    |         | BASH (C)            |                                |
+| [[Badass]]              | 22450 | 2-3    |         | VM Networking       |                                |
+| [[Doom Nukem]]          | 15750 | 3-4    |         | Doom Nukem (C)      |                                |
+| [[Inception Of Things]] | 25450 | 2-2    |         | Kubernetes CI/CD    | ![[willa.png]] ![[fluffy.png]] |
+| [[Humangl]]             | 4200  | 2      |         | Animation 3D OpenGL |                                |
+| [[Kfs 2]]               | 15750 | 2      | 🔴      | Kernel Part 2       |                                |
+| [[Override]]            | 35700 | 2      | 🔴      | Hack Binary         |                                |
+| [[Pestilence]]          | 15750 | 2      | 🔴      | Virus Obfuscation   |                                |
+| [[Rt]]                  | 20750 | 2-3    |         | RayTracing 3D       |                                |
