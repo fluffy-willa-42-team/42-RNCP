@@ -21,7 +21,7 @@
 ###### 🟠 Administration système
 | Project (Minimum 3)     | XP (50000) | Person | Also In |
 | ----------------------- | ---------- | ------ | ------- |
-| [[Cloud 1]]             | 9450       | 1-2    |         |
+| [[Cloud]]             | 9450       | 1-2    |         |
 | [[Badass]]              | 22450      | 2-3    | 🟣      |
 | [[Inception Of Things]] | 25450      | 2-3    | 🟣      |
 | [[Taskmaster]]          | 9450       | 2      | 🔴      |

@@ -1,0 +1,1 @@
+![[schema-7-rncp-2023-en.png]]
